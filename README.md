@@ -1,3 +1,11 @@
 # ffc
-Our website offers everything you need to run a successful food business without a traditional restaurant. You can rent fully equipped kitchen spaces, use our advanced ordering system, and get helpful location tips to boost your sales. We're here to help you grow and thrive in the digital food service world.
-This version is straightforward and accessible, emphasizing the practical benefits and support offered by the cloud kitchen website.
+This is a website that can work as a platform for online food delivery where you can buy and sell food items. I have also included some features regarding the delivery and its related status. feel free to contribute to this project. valuable changes that can enhance this project are totally accepted. happy coding!
+
+
+ffc.sql contains all the database files including some dummy data. Name the database as ffc or you change it to whatever you want ,but do the necessary changes.
+
+the root directory of this project should stick to the name ffc. Because most of the files are linked with respect to that URL .
+
+It's the atomic light weight version. 
+
+dedicated to college students who needs this ;)
